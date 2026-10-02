@@ -1,4 +1,4 @@
-the libraries used in the process of training model:
+Libraries used in the process of training model:
 pandas
 numpy
 scikit-learn
